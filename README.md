@@ -5,21 +5,21 @@ Inputs:
 
 main-register (
                
-               key   (int with floating dot)
+               key: double   (int with floating dot)
 
-               Login: 
+               Login: string or integers
                
-               Password:    
+               Password: string or integers
                
                
                
 main-login (
 
-            key   (int with floating dot)
+            key: double   (int with floating dot)
 
-            Login:
+            Login: string or integers
             
-            Password:       
+            Password: string or integers
             
             
             
