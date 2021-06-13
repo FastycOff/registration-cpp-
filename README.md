@@ -20,6 +20,5 @@ main-login (
             Login: string or integers
             
             Password: string or integers
-            
-name of files in ./passwords/ = Login    
+              
             
