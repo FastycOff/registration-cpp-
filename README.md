@@ -5,7 +5,7 @@ Inputs:
 
 main-register (
                
-               key - int with floating dot
+               key   (int with floating dot)
 
                Login: 
                
@@ -15,7 +15,7 @@ main-register (
                
 main-login (
 
-            key - int with floating dot
+            key   (int with floating dot)
 
             Login:
             
