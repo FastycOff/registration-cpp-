@@ -11,7 +11,7 @@ main-register (
                
                Password:    
                
-               )
+               
                
 main-login (
 
@@ -21,5 +21,5 @@ main-login (
             
             Password:       
             
-            )
+            
             
